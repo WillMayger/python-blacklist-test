@@ -1,2 +1,1 @@
 Use Blacklist logs
-Use Blacklist 
