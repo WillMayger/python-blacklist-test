@@ -1,1 +1,2 @@
 Use Blacklist logs
+Use Blacklist new/blacklist/route
