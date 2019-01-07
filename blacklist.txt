@@ -1,2 +1,3 @@
 Use Blacklist new/blacklist/route
 Use Blacklist another/blacklist/route
+Use Blacklist /travel/lists/stunning-aerial-photography-from-the-2018-drone-awards/
